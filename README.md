@@ -1,6 +1,5 @@
 # M.O.L.O.X. — Technical Architecture Regulation
 
-Document version: 2026-10-15
 
 ## 1. Purpose and Scope
 
