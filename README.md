@@ -1,7 +1,7 @@
 # M.O.L.O.X. — Technical Architecture Regulation
 
 
-## 1. Purpose and Scope
+## 1. Purpose and Scope pope
 
 This document defines the mandatory architectural rules of M.O.L.O.X.: every team member checks their code and PR against it before merge.
 
